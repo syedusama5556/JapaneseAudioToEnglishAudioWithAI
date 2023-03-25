@@ -1,0 +1,11 @@
+requests
+pydub
+ffmpeg
+ffmpeg-python
+openai-whisper
+pytube
+numba==0.56.4
+numpy==1.23.5
+openai
+# ffprobe
+# spleeter
